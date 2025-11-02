@@ -61,6 +61,15 @@ Passionate about building robust, scalable applications and extracting insights 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Armangupta7489-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Armangupta7489/)
 
+<br clear="both">
+
+<h2 align="left">📃 My Contributions</h2>
+
+###
+
+<img src="[https://raw.githubusercontent.com/parth3083/parth3083/output/snake.svg](https://raw.githubusercontent.com/armangupta7489/armangupta7489/output/snake.svg)" alt="Snake animation" />
+
+###
 
 
 
