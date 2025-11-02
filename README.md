@@ -67,7 +67,7 @@ Passionate about building robust, scalable applications and extracting insights 
 
 ###
 
-<img src="[https://raw.githubusercontent.com/parth3083/parth3083/output/snake.svg](https://raw.githubusercontent.com/armangupta7489/armangupta7489/output/snake.svg)" alt="Snake animation" />
+<img src="https:https://raw.githubusercontent.com/armangupta7489/armangupta7489/output/snake.svg" alt="Snake animation" />
 
 ###
 
