@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I+am+Armaan+👋;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I+am+Arman+👋;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 Passionate about building robust, scalable applications and extracting insights from data.
 
